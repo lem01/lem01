@@ -5,3 +5,5 @@
 
  🔭 I work as a freelance developer.
  👯 I’m looking to collaborate on @Magudal
+
+-[YouTube] (https://www.youtube.com/channel/UCk2HUd1FQNy8v31W8M0Yp6g)
