@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Magudali](https://github.com/magudali)
 
-- 🌱 I’m currently learning **Udemy courses, Github Management,Rest APIs with firebase and Laravel.**
-
 - 💬 Ask me about **new technologies in software, mobile applications, artificial intelligence, good practices in git.**
 
 - 📫 How to reach me **https://twitter.com/lemcisneros01**
