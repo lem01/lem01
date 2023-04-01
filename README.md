@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lennox Monge</h1>
 <h3 align="center">A passionate mobile developer from Nicaragua</h3>
 
-- 🔭 I’m currently working on [Magudali](https://github.com/magudali)
-
 - 💬 Ask me about **new technologies in software, mobile applications, artificial intelligence, good practices in git.**
 
 
