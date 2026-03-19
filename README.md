@@ -12,11 +12,27 @@ Full Stack Developer with strong knowledge in web and mobile development, Linux,
 ---
 
 ### 💬 About Me
-- 💡 Focused on **mobile development, backend, frontend, and databases**
-- 🔧 Experienced with **APIs, automation, and full-stack solutions**
-- 🏗️ Skilled in **Linux administration, hosting management, Docker, and server deployment**
-- 📚 Interested in **software architecture, process optimization, and best practices**
-- ⚡ Passionate about building efficient and reliable digital solutions
+
+### ✨ Hobbies & Interests
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🏀 Personal Interests</h4>
+      <p>Basketball</p>
+      <p>Hackathons & coding competitions</p>
+      <p>Continuous learning</p>
+      <p>Improving skills every day</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🌍 Availability</h4>
+      <p>Open to freelance projects</p>
+      <p>Available for remote work</p>
+      <p>Interested in international opportunities</p>
+      <p>Ready to collaborate on new challenges</p>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🛠️ Technical Skills
@@ -214,5 +230,5 @@ Full Stack Developer with strong knowledge in web and mobile development, Linux,
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lem01&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=lem01&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </p>
