@@ -47,7 +47,7 @@ and creating efficient digital solutions.
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank">
-  <img src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="40" height="40"/>
+  <img src="https://github.com/lem01/lem01/blob/main/assets/laravel-2.svg" width="40" height="40"/>
 </a>
 <a href="https://www.php.net" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
