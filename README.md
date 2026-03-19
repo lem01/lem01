@@ -229,6 +229,4 @@ Full Stack Developer with strong knowledge in web and mobile development, Linux,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=lem01&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15" />
-</p>
+
