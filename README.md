@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Mobile & Full Stack Developer from Nicaragua</h3>
 
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="profile image" width="200" style="border-radius:50%;" />
+  <img src="https://github.com/lem01/lem01/blob/main/assets/profile.png" alt="profile image" width="200" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ and creating efficient digital solutions.
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/764/304/png-clipart-laravel-black-logo-tech-companies-thumbnail.png" width="40" height="40"/>
 </a>
 <a href="https://www.php.net" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
