@@ -152,87 +152,67 @@ Full Stack Developer with strong knowledge in web and mobile development, Linux,
 </table>
 
 ---
-
 ### 🌐 Languages
-- **Spanish:** Native
-- **English:** Basic
 
----
-
-### 🎓 Education
-**Telecommunications Engineering**  
-**Universidad Autónoma de Nicaragua (UNAN León)**  
-**September 2015 - December 2021**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🗣️ Spoken Languages</h4>
+      <img src="https://img.shields.io/badge/Spanish-Native-1E3A8A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/English-Basic-6B7280?style=for-the-badge" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🎓 Education</h4>
+      <strong>Telecommunications Engineering</strong><br/>
+      Universidad Autónoma de Nicaragua (UNAN León)<br/>
+      <em>September 2015 – December 2021</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="mailto:lemcisneros01@gmail.com" target="_blank">
-    <img align="center" src="https://github.com/lem01/lem01/blob/main/assets/gmail-icon.svg" height="40" width="40" />
+
+<p align="center">
+  <a href="mailto:lemcisneros01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/lem01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-<a href="https://dart.dev" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://kotlinlang.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://github.com/lem01/lem01/blob/main/assets/laravel-2.svg" width="40" height="40"/>
-</a>
-<a href="https://codeigniter.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://react.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
+### 🛠️ Main Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,kotlin,dart,php,javascript,react,nodejs,express,flutter,laravel,linux,docker,git,figma,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lem01&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lem01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lem01&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lem01&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15"/>
 </p>
